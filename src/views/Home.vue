@@ -6,6 +6,7 @@
     <BtnDisminuir/>
     <hr>
     <BotonAccion :estado="true"/>
+    <BotonAccion :estado="false"/>
   </div>
 </template>
 
